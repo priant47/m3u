@@ -1,0 +1,45 @@
+#EXTM3U
+#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1,TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1,INDOSIAR
+https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/master.m3u8
+#EXTINF:-1,INDOSIAR
+https://kmklive-lh.akamaihd.net/i/indosiar_geo_my_sg@94479/master.m3u8
+#EXTINF:-1,SCTV
+https://kmklive-lh.akamaihd.net/i/sctv_live@94479/master.m3u8
+#EXTINF:-1,INEWS
+https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/master.m3u8
+#EXTINF:-1,O CHANNEL
+https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/master.m3u8
+#EXTINF:-1,TRANS TV
+https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8
+#EXTINF:-1,TRANS 7
+https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8
+#EXTINF:-1,CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,TV ONE
+https://kmklive-lh.akamaihd.net/i/tvone_live@577566/master.m3u8
+#EXTINF:-1,ANTV
+https://kmklive-lh.akamaihd.net/i/antv_live@577566/master.m3u8
+#EXTINF:-1,KOMPAS TV
+https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
+#EXTINF:-1,RTV
+https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
+#EXTINF:-1,JAK TV
+https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
+#EXTINF:-1,BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
+#EXTINF:-1,BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1,JAKARTA GLOBE NEWS
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsUK-US/playlist.m3u8
+#EXTINF:-1,RCTI
+https://cdn-livetv2.metube.id/hls/rcti.m3u8
+#EXTINF:-1,GOLBAL TV
+https://cdn-livetv2.metube.id/hls/globaltv.m3u8
+#EXTINF:-1,MNCTV
+https://cdn-livetv2.metube.id/hls/mnctv.m3u8

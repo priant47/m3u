@@ -5,7 +5,7 @@ http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 #EXTINF:-1,INDOSIAR
 https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/master.m3u8
-#EXTINF:-1,INDOSIAR
+#EXTINF:-1,INDOSIAR LIGA1
 https://kmklive-lh.akamaihd.net/i/indosiar_geo_my_sg@94479/master.m3u8
 #EXTINF:-1,SCTV
 https://kmklive-lh.akamaihd.net/i/sctv_live@94479/master.m3u8

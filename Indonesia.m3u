@@ -43,3 +43,23 @@ https://cdn-livetv2.metube.id/hls/rcti.m3u8
 https://cdn-livetv2.metube.id/hls/globaltv.m3u8
 #EXTINF:-1,MNCTV
 https://cdn-livetv2.metube.id/hls/mnctv.m3u8
+#EXTINF:-1,9 NET
+http://stream1.ninmedia.tv/live/nin-9net.stream_nin/chunklist_w1111180495.m3u8
+#EXTINF:-1,SCI FI
+http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/chunklist_w2047066873.m3u8
+#EXTINF:-1,DW TV
+https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/master.m3u8
+#EXTINF:-1,DMI Tv
+http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/chunklist_w2010851494.m3u8
+#EXTINF:-1,Avava Diamond Tv
+http://wowza60.indostreamserver.com:1935/adti/live/chunklist_w72765744.m3u8
+#EXTINF:-1,Black Diamond Tv
+http://wowza60.indostreamserver.com:1935/bdti/live/chunklist_w89264008.m3u8
+#EXTINF:-1,Avava Bollywood Diamond Tv
+http://wowza60.indostreamserver.com:1935/abc/live/chunklist_w1764595320.m3u8
+#EXTINF:-1,Gold Diamond Tv
+http://wowza60.indostreamserver.com:1935/gold/live/chunklist_w1708677959.m3u8
+#EXTINF:-1,Red Diamond Tv
+http://wowza60.indostreamserver.com:1935/red/live/chunklist_w408838150.m3u8
+#EXTINF:-1,Kids Diamond Tv
+http://wowza60.indostreamserver.com:1935/kids/live/chunklist_w800493103.m3u8

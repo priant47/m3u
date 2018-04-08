@@ -63,5 +63,5 @@ http://wowza60.indostreamserver.com:1935/gold/live/chunklist_w1708677959.m3u8
 http://wowza60.indostreamserver.com:1935/red/live/chunklist_w408838150.m3u8
 #EXTINF:-1,Kids Diamond Tv
 http://wowza60.indostreamserver.com:1935/kids/live/chunklist_w800493103.m3u8
-#EXTINF:-1,BEIN SPORT 1
-P2p://170.178.181.179:6211/5ac2df88000437ea00066b02d3844108.ts
+#EXTINF:-1,ONE HD
+http://rtmp.one.by:1300

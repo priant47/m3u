@@ -59,6 +59,8 @@ http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/chunklist_w2047066873.m3u8
 https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/master.m3u8
 #EXTINF:-1,DMI Tv
 http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/chunklist_w2010851494.m3u8
+#EXTINF:-1,Saluran Musik Indonesia
+http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
 #EXTINF:-1,Avava Diamond Tv
 http://wowza60.indostreamserver.com:1935/adti/live/chunklist_w72765744.m3u8
 #EXTINF:-1,Black Diamond Tv
@@ -99,8 +101,6 @@ http://sg.ganteng.stream:8888/live/trialun/trialun/77.ts
 http://sg.ganteng.stream:8888/live/trialun/trialun/135.ts
 #EXTINF:-1,J'GO TV
 http://sg.ganteng.stream:8888/live/trialun/trialun/56.ts
-#EXTINF:-1,Saluran Musik Indonesia
-http://sg.ganteng.stream:8888/live/trialun/trialun/72.ts
 #EXTINF:-1,Klik Music
 http://sg.ganteng.stream:8888/live/trialun/trialun/73.ts
 #EXTINF:-1,T Music

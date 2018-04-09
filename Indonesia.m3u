@@ -71,7 +71,125 @@ http://wowza60.indostreamserver.com:1935/gold/live/chunklist_w1708677959.m3u8
 http://wowza60.indostreamserver.com:1935/red/live/chunklist_w408838150.m3u8
 #EXTINF:-1,Kids Diamond Tv
 http://wowza60.indostreamserver.com:1935/kids/live/chunklist_w800493103.m3u8
-#EXTINF:-1,RTE
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-#EXTINF:-1,REAL MADRID TV
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1,FOX Movies HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/98.ts
+#EXTINF:-1,FOX Action Movies HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/99.ts
+#EXTINF:-1,FOX Family Movies HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/100.ts
+#EXTINF:-1,FOX Life HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/94.ts
+#EXTINF:-1,FOX HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/95.ts
+#EXTINF:-1,National Geographic Channel HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/96.ts
+#EXTINF:-1,National Geographic Wild HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/97.ts
+#EXTINF:-1,Spacetoon
+http://sg.ganteng.stream:8888/live/trialun/trialun/59.ts
+#EXTINF:-1,Baby TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/126.ts
+#EXTINF:-1,My Kids
+http://sg.ganteng.stream:8888/live/trialun/trialun/16.ts
+#EXTINF:-1,HI! TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/58.ts
+#EXTINF:-1,IN TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/77.ts
+#EXTINF:-1,JTV
+http://sg.ganteng.stream:8888/live/trialun/trialun/135.ts
+#EXTINF:-1,J'GO TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/56.ts
+#EXTINF:-1,Saluran Musik Indonesia
+http://sg.ganteng.stream:8888/live/trialun/trialun/72.ts
+#EXTINF:-1,Klik Music
+http://sg.ganteng.stream:8888/live/trialun/trialun/73.ts
+#EXTINF:-1,T Music
+http://sg.ganteng.stream:8888/live/trialun/trialun/41.ts
+#EXTINF:-1,Bioskop Indonesia
+http://sg.ganteng.stream:8888/live/trialun/trialun/42.ts
+#EXTINF:-1,Dunia Lain
+http://sg.ganteng.stream:8888/live/trialun/trialun/40.ts
+#EXTINF:-1,Bloomberg TV Asia
+http://sg.ganteng.stream:8888/live/trialun/trialun/137.ts
+#EXTINF:-1,Jak TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/83.ts
+#EXTINF:-1,Antara TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/91.ts
+#EXTINF:-1,Elshinta TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/23.ts
+#EXTINF:-1,Rodja TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/22.ts
+#EXTINF:-1,Dangdutz
+http://sg.ganteng.stream:8888/live/trialun/trialun/57.ts
+#EXTINF:-1,DAAI TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/21.ts
+#EXTINF:-1,Trace Urban
+http://sg.ganteng.stream:8888/live/trialun/trialun/106.ts
+#EXTINF:-1,Trace Prime
+http://sg.ganteng.stream:8888/live/trialun/trialun/107.ts
+#EXTINF:-1,Trace Mizki
+http://sg.ganteng.stream:8888/live/trialun/trialun/109.ts
+#EXTINF:-1,Trace Africa
+http://sg.ganteng.stream:8888/live/trialun/trialun/108.ts
+#EXTINF:-1,Trace Tropical
+http://sg.ganteng.stream:8888/live/trialun/trialun/112.ts
+#EXTINF:-1,Trace Toca
+http://sg.ganteng.stream:8888/live/trialun/trialun/111.ts
+#EXTINF:-1,Trace Naija
+http://sg.ganteng.stream:8888/live/trialun/trialun/113.ts
+#EXTINF:-1,Sony ONE
+http://sg.ganteng.stream:8888/live/trialun/trialun/19.ts
+#EXTINF:-1,Aljazeera EN
+http://sg.ganteng.stream:8888/live/trialun/trialun/89.ts
+#EXTINF:-1,Aljazeera
+http://sg.ganteng.stream:8888/live/trialun/trialun/88.ts
+#EXTINF:-1,K Plus
+http://sg.ganteng.stream:8888/live/trialun/trialun/18.ts
+#EXTINF:-1,Sony Channel
+http://sg.ganteng.stream:8888/live/trialun/trialun/15.ts
+#EXTINF:-1,SBS IN HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/13.ts
+#EXTINF:-1,KBS World
+http://sg.ganteng.stream:8888/live/trialun/trialun/133.ts
+#EXTINF:-1,K Drama
+http://sg.ganteng.stream:8888/live/trialun/trialun/14.ts
+#EXTINF:-1,Da Vinci
+http://sg.ganteng.stream:8888/live/trialun/trialun/17.ts
+#EXTINF:-1,Zee Bioskop
+http://sg.ganteng.stream:8888/live/trialun/trialun/7.ts
+#EXTINF:-1,Thrill
+http://sg.ganteng.stream:8888/live/trialun/trialun/4.ts
+#EXTINF:-1,KIX
+http://sg.ganteng.stream:8888/live/trialun/trialun/8.ts
+#EXTINF:-1,Celestial Movies
+http://sg.ganteng.stream:8888/live/trialun/trialun/5.ts
+#EXTINF:-1,AXN
+http://sg.ganteng.stream:8888/live/trialun/trialun/9.ts
+#EXTINF:-1,Aniplus
+http://sg.ganteng.stream:8888/live/trialun/trialun/2.ts
+#EXTINF:-1,Animax
+http://sg.ganteng.stream:8888/live/trialun/trialun/3.ts
+#EXTINF:-1,Disney XD
+http://sg.ganteng.stream:8888/live/trialun/trialun/104.ts
+#EXTINF:-1,Fox Sports 3
+http://sg.ganteng.stream:8888/live/trialun/trialun/101.ts
+#EXTINF:-1,Fox Sports 2
+http://sg.ganteng.stream:8888/live/trialun/trialun/102.ts
+#EXTINF:-1,Fox Sports 1
+http://sg.ganteng.stream:8888/live/trialun/trialun/51.ts
+#EXTINF:-1,Sony Ten Sports 3
+http://sg.ganteng.stream:8888/live/trialun/trialun/55.ts
+#EXTINF:-1,Sony Ten Sports 2
+http://sg.ganteng.stream:8888/live/trialun/trialun/54.ts
+#EXTINF:-1,Sony Ten Sports 1
+http://sg.ganteng.stream:8888/live/trialun/trialun/53.ts
+#EXTINF:-1,BeIN Sports 3
+http://sg.ganteng.stream:8888/live/trialun/trialun/12.ts
+#EXTINF:-1,BeIN Sports 2
+http://sg.ganteng.stream:8888/live/trialun/trialun/11.ts
+#EXTINF:-1,BeIN Sports 1
+http://sg.ganteng.stream:8888/live/trialun/trialun/10.ts
+#EXTINF:-1,MCOT HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/122.ts
+#EXTINF:-1,PPTV HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/123.ts

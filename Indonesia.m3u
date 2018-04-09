@@ -13,6 +13,8 @@ https://kmklive-lh.akamaihd.net/i/sctv_live@94479/master.m3u8
 https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/master.m3u8
 #EXTINF:-1,O CHANNEL
 https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/master.m3u8
+#EXTINF:-1,O CHANNEL LIGA1
+https://kmklive-lh.akamaihd.net/i/ochannel_geo_my_sg@94478/master.m3u8
 #EXTINF:-1,TRANS TV
 https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8
 #EXTINF:-1,TRANS 7

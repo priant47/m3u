@@ -1,5 +1,5 @@
-#EXTM3U#
-EXTINF:-1,METRO TV
+#EXTM3U
+#EXTINF:-1,METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1,TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8

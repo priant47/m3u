@@ -1,167 +1,70 @@
-#EXTM3U
+#EXTM3U#EXTINF:-1,METRO TV
+http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
+#EXTINF:-1,TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+#EXTINF:-1,INDOSIAR
+https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/master.m3u8
 #EXTINF:-1,INDOSIAR LIGA1
 https://kmklive-lh.akamaihd.net/i/indosiar_geo_my_sg@94479/master.m3u8
+#EXTINF:-1,SCTV
+https://kmklive-lh.akamaihd.net/i/sctv_live@94479/master.m3u8
+#EXTINF:-1,INEWS
+https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/master.m3u8
+#EXTINF:-1,O CHANNEL
+https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/master.m3u8
 #EXTINF:-1,O CHANNEL LIGA1
 https://kmklive-lh.akamaihd.net/i/ochannel_geo_my_sg@94478/master.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Movies HD" tvg-logo="http://whatson.dens.tv/media/img/fox-movies.jpg" group-title="Movie",FOX Movies HD
-http://sg.ganteng.stream:8888/live/trial/trial/98.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Action Movies HD" tvg-logo="http://truebusiness.truecorp.co.th/images/logo/Channels/FAMlogotvs.png" group-title="Movie",FOX Action Movies HD
-http://sg.ganteng.stream:8888/live/trial/trial/99.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Family Movies HD" tvg-logo="http://whatson.dens.tv/media/img/fox-family-movies.jpg" group-title="Movie",FOX Family Movies HD
-http://sg.ganteng.stream:8888/live/trial/trial/100.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX Life HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b4/FOXLifeLA.png/revision/latest?cb=20171001074306" group-title="Movie",FOX Life HD
-http://sg.ganteng.stream:8888/live/trial/trial/94.ts
-#EXTINF:-1 tvg-ID="" tvg-name="FOX HD" tvg-logo="http://logok.org/wp-content/uploads/2014/10/FOX-TV-logo.png" group-title="Movie",FOX HD
-http://sg.ganteng.stream:8888/live/trial/trial/95.ts
-#EXTINF:-1 tvg-ID="" tvg-name="National Geographic Channel HD" tvg-logo="http://j2-play.tv/cover/live/doc/nationalgeographic.png" group-title="Knowledge",National Geographic Channel HD
-http://sg.ganteng.stream:8888/live/trial/trial/96.ts
-#EXTINF:-1 tvg-ID="" tvg-name="National Geographic Wild HD" tvg-logo="http://j2-play.tv/cover/live/doc/natgeowild.png" group-title="Knowledge",National Geographic Wild HD
-http://sg.ganteng.stream:8888/live/trial/trial/97.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NET TV HD" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV HD
-http://sg.ganteng.stream:8888/live/trial/trial/78.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TVRI" tvg-logo="http://images2.useetv.com/logo_tvri_big1.png?v=1.0.0.0" group-title="News",TVRI
-http://sg.ganteng.stream:8888/live/trial/trial/36.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Trans TV HD" tvg-logo="" group-title="Lokal",Trans TV HD
-http://sg.ganteng.stream:8888/live/trial/trial/86.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Trans TV" tvg-logo="http://images2.useetv.com/logo_transtv_big1.png?v=1.0.0.0" group-title="Lokal",Trans TV
-http://sg.ganteng.stream:8888/live/trial/trial/34.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Trans 7 HD" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Lokal",Trans 7 HD
-http://sg.ganteng.stream:8888/live/trial/trial/92.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Trans 7" tvg-logo="http://images2.useetv.com/logo_trans7_big1.png?v=1.0.0.0" group-title="Lokal",Trans 7
-http://sg.ganteng.stream:8888/live/trial/trial/35.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Showcase" tvg-logo="http://images2.useetv.com/logo_showcase_big1.png?v=1.0.0.0" group-title="Lokal",Showcase
-http://sg.ganteng.stream:8888/live/trial/trial/90.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SCTV" tvg-logo="http://images2.useetv.com/logo_sctv_big1.png?v=1.0.0.0" group-title="Lokal",SCTV
-http://sg.ganteng.stream:8888/live/trial/trial/32.ts
-#EXTINF:-1 tvg-ID="" tvg-name="NET TV" tvg-logo="http://images2.useetv.com/logo_net_big1.png?v=1.0.0.0" group-title="Lokal",NET TV
-http://sg.ganteng.stream:8888/live/trial/trial/24.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Indosiar" tvg-logo="http://images2.useetv.com/logo_indosiar_big1.png?v=1.0.0.0" group-title="Lokal",Indosiar
-http://sg.ganteng.stream:8888/live/trial/trial/33.ts
-#EXTINF:-1 tvg-ID="" tvg-name="ANTV" tvg-logo="http://images2.useetv.com/logo_antv_big1.png?v=1.0.0.0" group-title="Lokal",ANTV
-http://sg.ganteng.stream:8888/live/trial/trial/31.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MNC TV" tvg-logo="https://devanyahya.web.id/mnclogo.png" group-title="Lokal",MNC TV
-http://sg.ganteng.stream:8888/live/trial/trial/27.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Global TV" tvg-logo="https://devanyahya.web.id/logo_globaltv_big1.png" group-title="Lokal",Global TV
-http://sg.ganteng.stream:8888/live/trial/trial/26.ts
-#EXTINF:-1 tvg-ID="" tvg-name="RCTI" tvg-logo="https://devanyahya.web.id/rctilogo.png" group-title="Lokal",RCTI
-http://sg.ganteng.stream:8888/live/trial/trial/25.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Rajawali TV" tvg-logo="http://images2.useetv.com/logo_rtv_big1.png?v=1.0.0.0" group-title="Lokal",Rajawali TV
-http://sg.ganteng.stream:8888/live/trial/trial/37.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Spacetoon" tvg-logo="http://images2.useetv.com/logo_spacetoonplus_big1.png?v=1.0.0.0" group-title="Lokal",Spacetoon
-http://sg.ganteng.stream:8888/live/trial/trial/59.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Baby TV" tvg-logo="" group-title="",Baby TV
-http://sg.ganteng.stream:8888/live/trial/trial/126.ts
-#EXTINF:-1 tvg-ID="" tvg-name="My Kids" tvg-logo="" group-title="",My Kids
-http://sg.ganteng.stream:8888/live/trial/trial/16.ts
-#EXTINF:-1 tvg-ID="" tvg-name="HI! TV" tvg-logo="http://images2.useetv.com/logo_hiindo_big1.png?v=1.0.0.0" group-title="Lokal",HI! TV
-http://sg.ganteng.stream:8888/live/trial/trial/58.ts
-#EXTINF:-1 tvg-ID="" tvg-name="IN TV" tvg-logo="http://images2.useetv.com/logo_intv_big1.png?v=1.0.0.0" group-title="Lokal",IN TV
-http://sg.ganteng.stream:8888/live/trial/trial/77.ts
-#EXTINF:-1 tvg-ID="" tvg-name="J'GO TV" tvg-logo="https://pbs.twimg.com/profile_images/378800000140413879/2363d730cb9aebf952ae08af7f29cf9f_400x400.jpeg" group-title="Movie",J'GO TV
-http://sg.ganteng.stream:8888/live/trial/trial/56.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Gold Diamond" tvg-logo="https://lh3.googleusercontent.com/cT7QY53XWgUwH1tZTu5mjY61UuC3ZulZxgk0qi_ph-WEQOhtEts3dYF7-_1TMBKpDg=h900" group-title="Movie",Gold Diamond
-http://sg.ganteng.stream:8888/live/trial/trial/69.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Red Diamond" tvg-logo="" group-title="Lokal",Red Diamond
-http://sg.ganteng.stream:8888/live/trial/trial/70.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Black Diamond" tvg-logo="" group-title="Lokal",Black Diamond
-http://sg.ganteng.stream:8888/live/trial/trial/74.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Avava Diamond" tvg-logo="" group-title="Lokal",Avava Diamond
-http://sg.ganteng.stream:8888/live/trial/trial/75.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Trace Urban" tvg-logo="" group-title="Music",Trace Urban
-http://sg.ganteng.stream:8888/live/trial/trial/106.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Trace Prime" tvg-logo="" group-title="Music",Trace Prime
-http://sg.ganteng.stream:8888/live/trial/trial/107.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Trace Mizki" tvg-logo="" group-title="Music",Trace Mizki
-http://sg.ganteng.stream:8888/live/trial/trial/109.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Trace Africa" tvg-logo="" group-title="Music",Trace Africa
-http://sg.ganteng.stream:8888/live/trial/trial/108.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Trace Tropical" tvg-logo="" group-title="Music",Trace Tropical
-http://sg.ganteng.stream:8888/live/trial/trial/112.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Trace Toca" tvg-logo="" group-title="Music",Trace Toca
-http://sg.ganteng.stream:8888/live/trial/trial/111.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Trace Naija" tvg-logo="" group-title="Music",Trace Naija
-http://sg.ganteng.stream:8888/live/trial/trial/113.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Saluran Musik Indonesia" tvg-logo="" group-title="Music",Saluran Musik Indonesia
-http://sg.ganteng.stream:8888/live/trial/trial/72.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Klik Music" tvg-logo="" group-title="Music",Klik Music
-http://sg.ganteng.stream:8888/live/trial/trial/73.ts
-#EXTINF:-1 tvg-ID="" tvg-name="T Music" tvg-logo="http://images2.useetv.com/logo_allegro_big1.png?v=1.0.0.0" group-title="Music",T Music
-http://sg.ganteng.stream:8888/live/trial/trial/41.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Bioskop Indonesia" tvg-logo="http://images2.useetv.com/logo_bioskopindonesia_big1.png?v=1.0.0.0" group-title="Movie",Bioskop Indonesia
-http://sg.ganteng.stream:8888/live/trial/trial/42.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dunia Lain" tvg-logo="" group-title="Lokal",Dunia Lain
-http://sg.ganteng.stream:8888/live/trial/trial/40.ts
-#EXTINF:-1 tvg-ID="" tvg-name="CNN Indonesia" tvg-logo="http://images2.useetv.com/logo_cnnindonesia_big1.png?v=1.0.0.0" group-title="News",CNN Indonesia
-http://sg.ganteng.stream:8888/live/trial/trial/44.ts
-#EXTINF:-1 tvg-ID="" tvg-name="TV ONE" tvg-logo="http://images2.useetv.com/logo_tvone_big1.png?v=1.0.0.0" group-title="News",TV ONE
-http://sg.ganteng.stream:8888/live/trial/trial/29.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Kompas TV" tvg-logo="http://images2.useetv.com/logo_kompastv_big1.png?v=1.0.0.0" group-title="News",Kompas TV
-http://sg.ganteng.stream:8888/live/trial/trial/30.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Metro TV" tvg-logo="http://images2.useetv.com/logo_metrotv_big1.png?v=1.0.0.0" group-title="News",Metro TV
-http://sg.ganteng.stream:8888/live/trial/trial/52.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Jak TV" tvg-logo="http://images2.useetv.com/logo_jaktv_big1.png?v=1.0.0.0" group-title="Lokal",Jak TV
-http://sg.ganteng.stream:8888/live/trial/trial/83.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Antara TV" tvg-logo="http://images2.useetv.com/logo_antara_big1.png?v=1.0.0.0" group-title="Lokal",Antara TV
-http://sg.ganteng.stream:8888/live/trial/trial/91.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Elshinta TV" tvg-logo="" group-title="Lokal",Elshinta TV
-http://sg.ganteng.stream:8888/live/trial/trial/23.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Rodja TV" tvg-logo="" group-title="Lokal",Rodja TV
-http://sg.ganteng.stream:8888/live/trial/trial/22.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Dangdutz" tvg-logo="" group-title="Music",Dangdutz
-http://sg.ganteng.stream:8888/live/trial/trial/57.ts
-#EXTINF:-1 tvg-ID="" tvg-name="DAAI TV" tvg-logo="http://images2.useetv.com/logo_daaitv_big1.png?v=1.0.0.0" group-title="Lokal",DAAI TV
-http://sg.ganteng.stream:8888/live/trial/trial/21.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony ONE" tvg-logo="http://images2.useetv.com/logo_sone_big1.png?v=1.0.0.0" group-title="Korea",Sony ONE
-http://sg.ganteng.stream:8888/live/trial/trial/19.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera EN" tvg-logo="" group-title="News",Aljazeera EN
-http://sg.ganteng.stream:8888/live/trial/trial/89.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Aljazeera" tvg-logo="" group-title="News",Aljazeera
-http://sg.ganteng.stream:8888/live/trial/trial/88.ts
-#EXTINF:-1 tvg-ID="" tvg-name="K Plus" tvg-logo="http://images2.useetv.com/logo_kplus_big1.png?v=1.0.0.0" group-title="Korea",K Plus
-http://sg.ganteng.stream:8888/live/trial/trial/18.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Sony_Channel_logo.png" group-title="Movie",Sony Channel
-http://sg.ganteng.stream:8888/live/trial/trial/15.ts
-#EXTINF:-1 tvg-ID="" tvg-name="SBS IN HD" tvg-logo="" group-title="Korea",SBS IN HD
-http://sg.ganteng.stream:8888/live/trial/trial/13.ts
-#EXTINF:-1 tvg-ID="" tvg-name="K Drama" tvg-logo="" group-title="Korea",K Drama
-http://sg.ganteng.stream:8888/live/trial/trial/14.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Da Vinci" tvg-logo="http://images2.useetv.com/logo_davinci_big1.png?v=1.0.0.0" group-title="Knowledge",Da Vinci
-http://sg.ganteng.stream:8888/live/trial/trial/17.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Zee Bioskop" tvg-logo="http://images2.useetv.com/logo_zbioskop_big1.png?v=1.0.0.0" group-title="Movie",Zee Bioskop
-http://sg.ganteng.stream:8888/live/trial/trial/7.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Thrill" tvg-logo="http://epg.serbianforum.org/logo_znaci/Thrill.png" group-title="Movie",Thrill
-http://sg.ganteng.stream:8888/live/trial/trial/4.ts
-#EXTINF:-1 tvg-ID="" tvg-name="KIX" tvg-logo="https://pbs.twimg.com/profile_images/573025578837671936/0SP5Blcm_400x400.jpeg" group-title="Movie",KIX
-http://sg.ganteng.stream:8888/live/trial/trial/8.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Celestial Movies" tvg-logo="http://singteltv.com.sg/_channels/pic_ch585.jpg" group-title="Movie",Celestial Movies
-http://sg.ganteng.stream:8888/live/trial/trial/5.ts
-#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="http://epg.serbianforum.org/logo_znaci/AXN.png" group-title="Movie",AXN
-http://sg.ganteng.stream:8888/live/trial/trial/9.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Aniplus" tvg-logo="http://images2.useetv.com/logo_aniplus_big1.png" group-title="Movie",Aniplus
-http://sg.ganteng.stream:8888/live/trial/trial/2.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="Movie",Animax
-http://sg.ganteng.stream:8888/live/trial/trial/3.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Disney XD" tvg-logo="" group-title="",Disney XD
-http://sg.ganteng.stream:8888/live/trial/trial/104.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 3" tvg-logo="http://j2-play.tv/cover/live/sport/foxsport3.png" group-title="Sports",Fox Sports 3
-http://sg.ganteng.stream:8888/live/trial/trial/101.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 2" tvg-logo="http://j2-play.tv/cover/live/sport/foxsport2.png" group-title="Sports",Fox Sports 2
-http://sg.ganteng.stream:8888/live/trial/trial/102.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Fox Sports 1" tvg-logo="http://j2-play.tv/cover/live/sport/foxsport1.png" group-title="Sports",Fox Sports 1
-http://sg.ganteng.stream:8888/live/trial/trial/51.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten Sports 3" tvg-logo="" group-title="Sports",Sony Ten Sports 3
-http://sg.ganteng.stream:8888/live/trial/trial/55.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten Sports 2" tvg-logo="" group-title="Sports",Sony Ten Sports 2
-http://sg.ganteng.stream:8888/live/trial/trial/54.ts
-#EXTINF:-1 tvg-ID="" tvg-name="Sony Ten Sports 1" tvg-logo="" group-title="Sports",Sony Ten Sports 1
-http://sg.ganteng.stream:8888/live/trial/trial/53.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Sports",BeIN Sports 3
-http://sg.ganteng.stream:8888/live/trial/trial/12.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 2" tvg-logo="https://www.sky.co.nz/documents/24003/641510/MK_beIN_SPORTS_2_NEW_250x180.png/2ddeca6b-978d-4549-b322-1a22d1f07fc5?t=1485889369163" group-title="Sports",BeIN Sports 2
-http://sg.ganteng.stream:8888/live/trial/trial/11.ts
-#EXTINF:-1 tvg-ID="" tvg-name="BeIN Sports 1" tvg-logo="https://www.sky.co.nz/documents/24003/641510/MK_beIN_SPORTS_1HD_NEW_250x180.png/e50fbf1a-9b1d-402c-8e43-7e6bcfb9715c?t=1485889360622" group-title="Sports",BeIN Sports 1
-http://sg.ganteng.stream:8888/live/trial/trial/10.ts
-#EXTINF:-1 tvg-ID="" tvg-name="MCOT HD" tvg-logo="" group-title="Sports",MCOT HD
-http://sg.ganteng.stream:8888/live/trial/trial/122.ts
-#EXTINF:-1 tvg-ID="" tvg-name="PPTV HD" tvg-logo="" group-title="Sports",PPTV HD
-http://sg.ganteng.stream:8888/live/trial/trial/123.ts
+#EXTINF:-1,TRANS TV
+https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8
+#EXTINF:-1,TRANS 7
+https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8
+#EXTINF:-1,CNN INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
+#EXTINF:-1,CNN INDONESIA
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1,TV ONE
+https://kmklive-lh.akamaihd.net/i/tvone_live@577566/master.m3u8
+#EXTINF:-1,ANTV
+https://kmklive-lh.akamaihd.net/i/antv_live@577566/master.m3u8
+#EXTINF:-1,KOMPAS TV
+https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
+#EXTINF:-1,RTV
+https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
+#EXTINF:-1,JAK TV
+https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
+#EXTINF:-1,BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
+#EXTINF:-1,BERITA SATU WORLD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
+#EXTINF:-1,JAKARTA GLOBE NEWS
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsUK-US/playlist.m3u8
+#EXTINF:-1,GLOBAL TV
+https://kmklive-lh.akamaihd.net/i/globaltv_live@94478/master.m3u8
+#EXTINF:-1,RCTI
+https://kmklive-lh.akamaihd.net/i/rcti_live@94478/master.m3u8
+#EXTINF:-1,MNCTV
+https://kmklive-lh.akamaihd.net/i/mnctv_live@137568/master.m3u8
+#EXTINF:-1,9 NET
+http://stream1.ninmedia.tv/live/nin-9net.stream_nin/chunklist_w1111180495.m3u8
+#EXTINF:-1,SCI FI
+http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/chunklist_w2047066873.m3u8
+#EXTINF:-1,DW TV
+https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/master.m3u8
+#EXTINF:-1,DMI Tv
+http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/chunklist_w2010851494.m3u8
+#EXTINF:-1,Avava Diamond Tv
+http://wowza60.indostreamserver.com:1935/adti/live/chunklist_w72765744.m3u8
+#EXTINF:-1,Black Diamond Tv
+http://wowza60.indostreamserver.com:1935/bdti/live/chunklist_w89264008.m3u8
+#EXTINF:-1,Avava Bollywood Diamond Tv
+http://wowza60.indostreamserver.com:1935/abc/live/chunklist_w1764595320.m3u8
+#EXTINF:-1,Gold Diamond Tv
+http://wowza60.indostreamserver.com:1935/gold/live/chunklist_w1708677959.m3u8
+#EXTINF:-1,Red Diamond Tv
+http://wowza60.indostreamserver.com:1935/red/live/chunklist_w408838150.m3u8
+#EXTINF:-1,Kids Diamond Tv
+http://wowza60.indostreamserver.com:1935/kids/live/chunklist_w800493103.m3u8
+#EXTINF:-1,RTE
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on

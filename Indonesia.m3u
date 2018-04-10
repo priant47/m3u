@@ -1,76 +1,8 @@
 #EXTM3U
-#EXTINF:-1,METRO TV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
-#EXTINF:-1,TVRI
-http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
-#EXTINF:-1,INDOSIAR
-https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/index_720_av-b.m3u8
 #EXTINF:-1,INDOSIAR LIGA1
 https://kmklive-lh.akamaihd.net/i/indosiar_geo_my_sg@94479/master.m3u8
-#EXTINF:-1,SCTV
-https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_720_av-b.m3u8
-#EXTINF:-1,INEWS
-https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/index_360_av-p.m3u8
-#EXTINF:-1,O CHANNEL
-https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/index_360_av-b.m3u8
 #EXTINF:-1,O CHANNEL LIGA1
 https://kmklive-lh.akamaihd.net/i/ochannel_geo_my_sg@94478/master.m3u8
-#EXTINF:-1,TRANS TV
-https://kmklive-lh.akamaihd.net/i/transtv_live@94476/index_360_av-b.m3u8
-#EXTINF:-1,TRANS TV HD
-http://stream-ec.dmcdn.net/34/dm/3/x4nwi47/live-3.m3u8
-#EXTINF:-1,TRANS 7
-https://kmklive-lh.akamaihd.net/i/trans7_live@94476/index_360_av-b.m3u8
-#EXTINF:-1,TRANS 7 HD
-https://trans7-livestreaming.akamaized.net/hls/live/628325/Test/myDestination-720p/chunklist.m3u8
-#EXTINF:-1,CNN INDONESIA
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
-#EXTINF:-1,CNN INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
-#EXTINF:-1,TV ONE
-https://kmklive-lh.akamaihd.net/i/tvone_live@577566/index_360_av-b.m3u8
-#EXTINF:-1,TV ONE HD
-http://stream-03.sg1.dailymotion.com/37/dm/3/x5ot2cg/live-3.m3u8
-#EXTINF:-1,ANTV
-https://kmklive-lh.akamaihd.net/i/antv_live@577566/index_360_av-b.m3u8
-#EXTINF:-1,KOMPAS TV
-https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/index_360_av-b.m3u8
-#EXTINF:-1,RTV
-https://kmklive-lh.akamaihd.net/i/rtv_live@137568/index_360_av-p.m3u8
-#EXTINF:-1,JAK TV
-https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/index_360_av-p.m3u8
-#EXTINF:-1,BERITA SATU
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
-#EXTINF:-1,BERITA SATU WORLD
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
-#EXTINF:-1,JAKARTA GLOBE NEWS
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsUK-US/playlist.m3u8
-#EXTINF:-1,GLOBAL TV
-https://kmklive-lh.akamaihd.net/i/globaltv_live@94478/index_360_av-b.m3u8
-#EXTINF:-1,RCTI
-https://kmklive-lh.akamaihd.net/i/rcti_live@94478/index_360_av-b.m3u8
-#EXTINF:-1,MNCTV
-https://kmklive-lh.akamaihd.net/i/mnctv_live@137568/index_360_av-b.m3u8
-#EXTINF:-1,SCI FI
-http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/chunklist_w2047066873.m3u8
-#EXTINF:-1,DW TV
-https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/index_360_av-p.m3u8
-#EXTINF:-1,DMI Tv
-http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/chunklist_w2010851494.m3u8
-#EXTINF:-1,Saluran Musik Indonesia
-http://stream1.ninmedia.tv/live/nin-smi.stream_nin/playlist.m3u8
-#EXTINF:-1,Avava Diamond Tv
-http://wowza60.indostreamserver.com:1935/adti/live/chunklist_w72765744.m3u8
-#EXTINF:-1,Black Diamond Tv
-http://wowza60.indostreamserver.com:1935/bdti/live/chunklist_w89264008.m3u8
-#EXTINF:-1,Avava Bollywood Diamond Tv
-http://wowza60.indostreamserver.com:1935/abc/live/chunklist_w1764595320.m3u8
-#EXTINF:-1,Gold Diamond Tv
-http://wowza60.indostreamserver.com:1935/gold/live/chunklist_w1708677959.m3u8
-#EXTINF:-1,Red Diamond Tv
-http://wowza60.indostreamserver.com:1935/red/live/chunklist_w408838150.m3u8
-#EXTINF:-1,Kids Diamond Tv
-http://wowza60.indostreamserver.com:1935/kids/live/chunklist_w800493103.m3u8
 #EXTINF:-1,FOX Movies HD
 http://sg.ganteng.stream:8888/live/trialun/trialun/98.ts
 #EXTINF:-1,FOX Action Movies HD
@@ -85,6 +17,36 @@ http://sg.ganteng.stream:8888/live/trialun/trialun/95.ts
 http://sg.ganteng.stream:8888/live/trialun/trialun/96.ts
 #EXTINF:-1,National Geographic Wild HD
 http://sg.ganteng.stream:8888/live/trialun/trialun/97.ts
+#EXTINF:-1,NET TV HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/78.ts
+#EXTINF:-1,TVRI
+http://sg.ganteng.stream:8888/live/trialun/trialun/36.ts
+#EXTINF:-1,Trans TV HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/86.ts
+#EXTINF:-1,Trans TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/34.ts
+#EXTINF:-1,Trans 7 HD
+http://sg.ganteng.stream:8888/live/trialun/trialun/92.ts
+#EXTINF:-1,Trans 7
+http://sg.ganteng.stream:8888/live/trialun/trialun/35.ts
+#EXTINF:-1,Showcase
+http://sg.ganteng.stream:8888/live/trialun/trialun/90.ts
+#EXTINF:-1,SCTV
+http://sg.ganteng.stream:8888/live/trialun/trialun/32.ts
+#EXTINF:-1,NET TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/24.ts
+#EXTINF:-1,Indosiar
+http://sg.ganteng.stream:8888/live/trialun/trialun/33.ts
+#EXTINF:-1,ANTV
+http://sg.ganteng.stream:8888/live/trialun/trialun/31.ts
+#EXTINF:-1,MNC TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/27.ts
+#EXTINF:-1,Global TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/26.ts
+#EXTINF:-1,RCTI
+http://sg.ganteng.stream:8888/live/trialun/trialun/25.ts
+#EXTINF:-1,Rajawali TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/37.ts
 #EXTINF:-1,Spacetoon
 http://sg.ganteng.stream:8888/live/trialun/trialun/59.ts
 #EXTINF:-1,Baby TV
@@ -99,6 +61,16 @@ http://sg.ganteng.stream:8888/live/trialun/trialun/77.ts
 http://sg.ganteng.stream:8888/live/trialun/trialun/135.ts
 #EXTINF:-1,J'GO TV
 http://sg.ganteng.stream:8888/live/trialun/trialun/56.ts
+#EXTINF:-1,Gold Diamond
+http://sg.ganteng.stream:8888/live/trialun/trialun/69.ts
+#EXTINF:-1,Red Diamond
+http://sg.ganteng.stream:8888/live/trialun/trialun/70.ts
+#EXTINF:-1,Black Diamond
+http://sg.ganteng.stream:8888/live/trialun/trialun/74.ts
+#EXTINF:-1,Avava Diamond
+http://sg.ganteng.stream:8888/live/trialun/trialun/75.ts
+#EXTINF:-1,Saluran Musik Indonesia
+http://sg.ganteng.stream:8888/live/trialun/trialun/72.ts
 #EXTINF:-1,Klik Music
 http://sg.ganteng.stream:8888/live/trialun/trialun/73.ts
 #EXTINF:-1,T Music
@@ -107,6 +79,16 @@ http://sg.ganteng.stream:8888/live/trialun/trialun/41.ts
 http://sg.ganteng.stream:8888/live/trialun/trialun/42.ts
 #EXTINF:-1,Dunia Lain
 http://sg.ganteng.stream:8888/live/trialun/trialun/40.ts
+#EXTINF:-1,CNN Indonesia
+http://sg.ganteng.stream:8888/live/trialun/trialun/44.ts
+#EXTINF:-1,Berita Satu
+http://sg.ganteng.stream:8888/live/trialun/trialun/136.ts
+#EXTINF:-1,TV ONE
+http://sg.ganteng.stream:8888/live/trialun/trialun/29.ts
+#EXTINF:-1,Kompas TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/30.ts
+#EXTINF:-1,Metro TV
+http://sg.ganteng.stream:8888/live/trialun/trialun/52.ts
 #EXTINF:-1,Bloomberg TV Asia
 http://sg.ganteng.stream:8888/live/trialun/trialun/137.ts
 #EXTINF:-1,Jak TV

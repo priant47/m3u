@@ -10,17 +10,17 @@ https://kmklive-lh.akamaihd.net/i/indosiar_geo_my_sg@94479/master.m3u8
 #EXTINF:-1,SCTV
 https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_720_av-b.m3u8
 #EXTINF:-1,INEWS
-https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/master.m3u8
+https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/index_360_av-p.m3u8
 #EXTINF:-1,O CHANNEL
-https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/master.m3u8
+https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/index_360_av-b.m3u8
 #EXTINF:-1,O CHANNEL LIGA1
 https://kmklive-lh.akamaihd.net/i/ochannel_geo_my_sg@94478/master.m3u8
 #EXTINF:-1,TRANS TV
-https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8
+https://kmklive-lh.akamaihd.net/i/transtv_live@94476/index_360_av-b.m3u8
 #EXTINF:-1,TRANS TV HD
 http://stream-ec.dmcdn.net/34/dm/3/x4nwi47/live-3.m3u8
 #EXTINF:-1,TRANS 7
-https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8
+https://kmklive-lh.akamaihd.net/i/trans7_live@94476/index_360_av-b.m3u8
 #EXTINF:-1,TRANS 7 HD
 https://trans7-livestreaming.akamaized.net/hls/live/628325/Test/myDestination-720p/chunklist.m3u8
 #EXTINF:-1,CNN INDONESIA
@@ -28,17 +28,17 @@ http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1,CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1,TV ONE
-https://kmklive-lh.akamaihd.net/i/tvone_live@577566/master.m3u8
+https://kmklive-lh.akamaihd.net/i/tvone_live@577566/index_360_av-b.m3u8
 #EXTINF:-1,TV ONE HD
 http://stream-03.sg1.dailymotion.com/37/dm/3/x5ot2cg/live-3.m3u8
 #EXTINF:-1,ANTV
-https://kmklive-lh.akamaihd.net/i/antv_live@577566/master.m3u8
+https://kmklive-lh.akamaihd.net/i/antv_live@577566/index_360_av-b.m3u8
 #EXTINF:-1,KOMPAS TV
-https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
+https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/index_360_av-b.m3u8
 #EXTINF:-1,RTV
-https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
+https://kmklive-lh.akamaihd.net/i/rtv_live@137568/index_360_av-p.m3u8
 #EXTINF:-1,JAK TV
-https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
+https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/index_360_av-p.m3u8
 #EXTINF:-1,BERITA SATU
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8
 #EXTINF:-1,BERITA SATU WORLD
@@ -46,15 +46,15 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 #EXTINF:-1,JAKARTA GLOBE NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsUK-US/playlist.m3u8
 #EXTINF:-1,GLOBAL TV
-https://kmklive-lh.akamaihd.net/i/globaltv_live@94478/master.m3u8
+https://kmklive-lh.akamaihd.net/i/globaltv_live@94478/index_360_av-b.m3u8
 #EXTINF:-1,RCTI
-https://kmklive-lh.akamaihd.net/i/rcti_live@94478/master.m3u8
+https://kmklive-lh.akamaihd.net/i/rcti_live@94478/index_360_av-b.m3u8
 #EXTINF:-1,MNCTV
-https://kmklive-lh.akamaihd.net/i/mnctv_live@137568/master.m3u8
+https://kmklive-lh.akamaihd.net/i/mnctv_live@137568/index_360_av-b.m3u8
 #EXTINF:-1,SCI FI
 http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/chunklist_w2047066873.m3u8
 #EXTINF:-1,DW TV
-https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/master.m3u8
+https://kmklive-lh.akamaihd.net/i/dwtv_live@137568/index_360_av-p.m3u8
 #EXTINF:-1,DMI Tv
 http://stream1.ninmedia.tv/live/nin-dmi.stream_nin/chunklist_w2010851494.m3u8
 #EXTINF:-1,Saluran Musik Indonesia

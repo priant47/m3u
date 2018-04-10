@@ -51,8 +51,6 @@ https://kmklive-lh.akamaihd.net/i/globaltv_live@94478/master.m3u8
 https://kmklive-lh.akamaihd.net/i/rcti_live@94478/master.m3u8
 #EXTINF:-1,MNCTV
 https://kmklive-lh.akamaihd.net/i/mnctv_live@137568/master.m3u8
-#EXTINF:-1,9 NET
-http://stream1.ninmedia.tv/live/nin-9net.stream_nin/chunklist_w1111180495.m3u8
 #EXTINF:-1,SCI FI
 http://stream1.ninmedia.tv/live/nin-sfi.stream_nin/chunklist_w2047066873.m3u8
 #EXTINF:-1,DW TV

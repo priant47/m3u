@@ -32,11 +32,15 @@ http://sg.ganteng.stream:8888/live/trialun/trialun/35.ts
 #EXTINF:-1,Showcase
 http://sg.ganteng.stream:8888/live/trialun/trialun/90.ts
 #EXTINF:-1,SCTV
+https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_720_av-b.m3u8
+#EXTINF:-1,SCTV
 http://sg.ganteng.stream:8888/live/trialun/trialun/32.ts
 #EXTINF:-1,NET TV
 http://sg.ganteng.stream:8888/live/trialun/trialun/24.ts
 #EXTINF:-1,Indosiar
 http://sg.ganteng.stream:8888/live/trialun/trialun/33.ts
+#EXTINF:-1,Indosiar
+https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/index_720_av-b.m3u8
 #EXTINF:-1,ANTV
 http://sg.ganteng.stream:8888/live/trialun/trialun/31.ts
 #EXTINF:-1,MNC TV

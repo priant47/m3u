@@ -33,8 +33,6 @@ https://kmklive-lh.akamaihd.net/i/tvone_live@577566/index_360_av-b.m3u8
 http://stream-03.sg1.dailymotion.com/44/dm/3/x5ot2cg/live-3.m3u8
 #EXTINF:-1,ANTV
 https://cdn-livetv2.metube.id/hls/antv.m3u8
-#EXTINF:-1,ANTV
-https://r2---sn-i3beln7s.googlevideo.com/videoplayback?pl=20&itag=136&requiressl=yes&mime=video%2Fmp4&aitags=133%2C134%2C135%2C136%2C160&id=Cv0nIFYUxhE.0&noclen=1&ip=36.78.97.223&sparams=aitags,cmbypass,ei,expire,gcr,gir,hang,id,initcwndbps,ip,ipbits,ipbypass,itag,keepalive,live,mime,mip,mm,mn,ms,mv,noclen,pcm2cms,pl,requiressl,source&ei=d9nxWpPzBvKYz7sPqtCd6Ao&key=cms1&keepalive=yes&expire=1525820887&hang=1&live=1&signature=3D836472475C6FE757D1D7BB89CD6C9670FB2B30.75E340BE5D283459998D68B2F9800AFC08890ED7&source=yt_live_broadcast&gcr=id&fexp=23724337&c=WEB_EMBEDDED_PLAYER&cmbypass=yes&ipbits=0&gir=yes&alr=yes&cpn=7iKPKs2eSfg3mpB5&cver=20180505&redirect_counter=1&rm=sn-i3b667l&cms_redirect=yes&ipbypass=yes&mip=125.164.29.248&mm=26&mn=sn-i3beln7s&ms=onr&mt=1525799171&mv=m&req_id=1e8b267846e5d64a&rn=9
 #EXTINF:-1,KOMPAS TV
 https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/index_360_av-b.m3u8
 #EXTINF:-1,RTV

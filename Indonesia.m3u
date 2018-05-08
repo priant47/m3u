@@ -12,7 +12,7 @@ https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/index_720_av-b.m3u8
 #EXTINF:-1,SCTV
 https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_720_av-b.m3u8
 #EXTINF:-1,INEWS
-https://kmklive-lh.akamaihd.net/i/inewstv_live@94479/index_360_av-p.m3u8
+https://cdn-livetv2.metube.id/hls/inewstv.m3u8
 #EXTINF:-1,O CHANNEL
 https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/index_360_av-b.m3u8
 #EXTINF:-1,TRANS TV
@@ -40,8 +40,10 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsworld/playlist.m3u8
 #EXTINF:-1,JAKARTA GLOBE NEWS
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsUK-US/playlist.m3u8
 #EXTINF:-1,GLOBAL TV
-https://cdn-livetv2.metube.id/hls/globaltv.m3u8
+https://cdn-livetv1.metube.id/globaltv.m3u8
 #EXTINF:-1,RCTI
 http://edge.okezone.com/live/rctioke.m3u8
 #EXTINF:-1,MNCTV
-https://cdn-livetv2.metube.id/hls/mnctv.m3u8
+https://cdn-livetv1.metube.id/hls/mnctv.m3u8
+#EXTINF:-1,MNC NEWS
+https://cdn-livetv1.metube.id/hls/mncnews.m3u8

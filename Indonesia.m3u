@@ -19,6 +19,8 @@ https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/index_360_av-b.m3u8
 http://stream-ec.dmcdn.net/58/dm/3/x4nwi47/live-3.m3u8
 #EXTINF:-1,TRANS 7
 https://kmklive-lh.akamaihd.net/i/trans7_live@94476/index_360_av-b.m3u8
+#EXTINF:-1,TRANS 7
+https://cdn-livetv1.metube.id/hls/trans7.m3u8
 #EXTINF:-1,CNN INDONESIA
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist.m3u8
 #EXTINF:-1,CNN INDONESIA
@@ -26,9 +28,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1,TV ONE
 https://kmklive-lh.akamaihd.net/i/tvone_live@577566/index_360_av-b.m3u8
 #EXTINF:-1,TV ONE
-http://stream-03.sg1.dailymotion.com/44/dm/3/x5ot2cg/live-3.m3u8
+https://cdn-livetv1.metube.id/hls/tvone.m3u8
 #EXTINF:-1,ANTV
-https://cdn-livetv2.metube.id/hls/antv.m3u8
+https://cdn-livetv1.metube.id/hls/antv.m3u8
 #EXTINF:-1,KOMPAS TV
 https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/index_360_av-b.m3u8
 #EXTINF:-1,RTV

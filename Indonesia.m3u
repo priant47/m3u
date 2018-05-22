@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,INDOSIAR LIGA1
-https://kmklive-lh.akamaihd.net/i/indosiar_geo_my_sg@94479/master.m3u8
+https://kmklive-lh.akamaihd.net/i/indosiar_ta_geo_my_sg@94479/master.m3u8
 #EXTINF:-1,O CHANNEL LIGA1
-https://kmklive-lh.akamaihd.net/i/ochannel_geo_my_sg@94478/master.m3u8
+https://kmklive-lh.akamaihd.net/i/ochannel_ta_geo_my_sg@94478/master.m3u8
 #EXTINF:-1,METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1,TVRI

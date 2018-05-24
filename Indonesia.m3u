@@ -1,14 +1,12 @@
 #EXTM3U
-#EXTINF:-1,INDOSIAR LIGA1
-http://live1.indostreamingtv.com/live/tv5/index.m3u8
 #EXTINF:-1,METRO TV
 http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/playlist.m3u8
 #EXTINF:-1,TVRI
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
 #EXTINF:-1,INDOSIAR
-https://kmklive-lh.akamaihd.net/i/indosiar_live@94479/index_720_av-b.m3u8
+http://live1.indostreamingtv.com/live/tv5/index.m3u8
 #EXTINF:-1,SCTV
-https://kmklive-lh.akamaihd.net/i/sctv_live@94479/index_720_av-b.m3u8
+http://live3.indostreamingtv.com/live/tv22/index.m3u8
 #EXTINF:-1,INEWS
 https://cdn-livetv2.metube.id/hls/inewstv.m3u8
 #EXTINF:-1,O CHANNEL
